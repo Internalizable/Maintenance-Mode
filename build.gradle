@@ -22,4 +22,8 @@ subprojects {
     repositories {
         mavenCentral()
     }
+    
+    dependencies {
+        compile group: 'redis.clients', name: 'jedis', version: '3.2.0'
+    }
 }
