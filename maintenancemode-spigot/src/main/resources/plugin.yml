@@ -1,0 +1,4 @@
+name: MaintenanceMode
+version: @version@
+main: me.internalizable.maintenancemode.MaintenanceModeSpigot
+api-version: 1.13

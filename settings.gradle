@@ -1,0 +1,3 @@
+rootProject.name = 'maintenancemode'
+
+include 'maintenancemode-common', 'maintenancemode-spigot', 'maintenancemode-bungeecord'

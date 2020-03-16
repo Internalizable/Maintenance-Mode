@@ -1,0 +1,3 @@
+name: MaintenanceMode
+version: @version@
+main: me.internalizable.maintenancemode.MaintenanceModeBungeeCord
