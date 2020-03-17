@@ -1,5 +1,5 @@
 
-package me.internalizable.config.converter;
+package me.internalizable.api.config.converter;
 
 
 public class BooleanConverter implements IValueConverter<Boolean> {

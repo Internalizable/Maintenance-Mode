@@ -1,4 +1,4 @@
-package me.internalizable.config.annotation;
+package me.internalizable.api.config.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

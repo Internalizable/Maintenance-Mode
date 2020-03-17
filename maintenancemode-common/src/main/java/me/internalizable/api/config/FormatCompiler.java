@@ -1,11 +1,11 @@
-package me.internalizable.config;
+package me.internalizable.api.config;
 
 import lombok.Getter;
 import lombok.Setter;
-import me.internalizable.config.annotation.Comment;
-import me.internalizable.config.converter.ConversionException;
-import me.internalizable.config.converter.ConverterFactory;
-import me.internalizable.config.converter.IValueConverter;
+import me.internalizable.api.config.annotation.Comment;
+import me.internalizable.api.config.converter.ConversionException;
+import me.internalizable.api.config.converter.ConverterFactory;
+import me.internalizable.api.config.converter.IValueConverter;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;

@@ -1,4 +1,4 @@
-package me.internalizable.config.ast;
+package me.internalizable.api.config.ast;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

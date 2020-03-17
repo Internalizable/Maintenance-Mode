@@ -1,6 +1,6 @@
-package me.internalizable.config;
+package me.internalizable.api.config;
 
-import me.internalizable.config.converter.ReversionException;
+import me.internalizable.api.config.converter.ReversionException;
 
 import java.io.File;
 import java.io.FileReader;

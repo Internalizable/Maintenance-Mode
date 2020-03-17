@@ -1,12 +1,12 @@
-package me.internalizable.config;
+package me.internalizable.api.config;
 
-import me.internalizable.config.ast.ASTCompoundNode;
-import me.internalizable.config.ast.ASTListNode;
-import me.internalizable.config.ast.ASTNode;
-import me.internalizable.config.ast.ASTValueNode;
-import me.internalizable.config.converter.ConverterFactory;
-import me.internalizable.config.converter.IValueConverter;
-import me.internalizable.config.converter.ReversionException;
+import me.internalizable.api.config.ast.ASTCompoundNode;
+import me.internalizable.api.config.ast.ASTListNode;
+import me.internalizable.api.config.ast.ASTNode;
+import me.internalizable.api.config.ast.ASTValueNode;
+import me.internalizable.api.config.converter.ConverterFactory;
+import me.internalizable.api.config.converter.IValueConverter;
+import me.internalizable.api.config.converter.ReversionException;
 
 import java.io.IOException;
 import java.io.Reader;

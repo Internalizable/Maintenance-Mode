@@ -1,4 +1,4 @@
-package me.internalizable.config.converter;
+package me.internalizable.api.config.converter;
 
 import java.util.HashMap;
 import java.util.Map;
